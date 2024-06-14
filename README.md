@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>olá, me chamo Matheus</h1> 🛒👢
 
-<!--
-**Mattt653/mattt653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<b>_estou estudando na escola fusco_ **alura**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#**_utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos_**
+
+#**eu tenho 17 anos, nasci** em **_SP/ZS_**</b>
+
+#**Gosto bastante de Desenhar, não pretendo levar como profissão**
+
+<h1>#trabalho que nem um escravo ❤❤❤<h1>
+
+<h1>**LITERALMENTE EU ❗❗❗**<h1>
+
+<image>![image](https://github.com/Mattt653/mattt653/assets/172787663/d80760e9-9950-4258-85b9-a1ea7ae44092)</image>
+
+
